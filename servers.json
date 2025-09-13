@@ -51,7 +51,8 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
-    }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+    },
+    {
+  "name": "anisette-v3-server",
+  "address": "https://anisette-v3-server-uguj.onrender.com"
 }
